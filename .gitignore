@@ -1,1 +1,3 @@
 cl65config.json
+*.o
+*.nes
